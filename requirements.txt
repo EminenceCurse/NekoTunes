@@ -1,0 +1,7 @@
+pyrogram
+yt-dlp
+youtube-search
+requests
+asyncio
+tgcrypto
+beautifulsoup4
