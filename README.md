@@ -1,15 +1,29 @@
-NekoTunes
+![NekoTunes Banner](https://files.catbox.moe/j0bx79.jpg)
 
-NekoTunes is an advanced Telegram bot that allows users to download music and find lyrics instantly. Built for speed, accuracy, and a seamless user experience!
+# **NekoTunes**
 
-Features
+**NekoTunes** is an advanced Telegram bot designed for music lovers. It lets users download songs and fetch lyrics instantly with lightning-fast performance and a sleek user experience.
 
-🎵 Download any song in high quality.
+---
 
-📖 Find accurate and detailed lyrics for your favorite tracks.
+## **✨ Features**
 
-⚡ Fast and reliable performance.
+- 🎵 **High-Quality Music Downloads**  
+  Instantly download any song in the best available audio quality.
 
-🛠️ User-friendly and easy to use.
+- 📖 **Accurate Lyrics Search**  
+  Get detailed and verified lyrics for your favorite tracks.
 
-🔥 Supports a wide range of songs across multiple platforms.
+- ⚡ **Blazing Fast Performance**  
+  Optimized for speed and reliability — no lag, no fuss.
+
+- 🛠️ **User-Friendly Interface**  
+  Simple, clean, and easy to use — no complicated commands.
+
+- 🔥 **Wide Song Support**  
+  Supports a massive library from various platforms and artists.
+
+---
+
+Start listening smarter with **NekoTunes**.  
+Join the music revolution — one command at a time.
