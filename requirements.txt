@@ -5,3 +5,4 @@ requests
 asyncio
 tgcrypto
 beautifulsoup4
+aiohttp
